@@ -1,2 +1,0 @@
-# StudentBio
-Student Bio Exercise
